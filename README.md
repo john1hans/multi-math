@@ -2,7 +2,8 @@
 V1
 
 
-Actions
+# Actions
+
 ***************************************
 *** 1:Finding Prime Factor          ***
 ***                                 ***
@@ -12,4 +13,4 @@ Actions
 ***                                 *** 
 *** 4:Exit                          ***
 ***************************************
-using case in this project.
+# using case in this project.
